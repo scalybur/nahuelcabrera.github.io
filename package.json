@@ -1,0 +1,19 @@
+{
+  "name": "nahuelcabrera.github.io",
+  "version": "0.0.1",
+  "description": "Nahuel Cabrera Developers Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelcabrera/nahuelcabrera.github.io.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelcabrera/nahuelcabrera.github.io/issues"
+  },
+  "homepage": "https://github.com/nahuelcabrera/nahuelcabrera.github.io#readme"
+}
